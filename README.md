@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">Junior Fullstack Developer & Test Automation Engineer</h3>
 
-- 🧪 Currently working in **Test Automation** with **Selenium, Appium, Java, Python, Gherkin, Cucumber, Behave**
+- 🧪 Currently working in **Test Automation** with **Selenium, Appium, Java, Python, Gherkin and Cucumber**
 
 - 🛠 Building a test framework called **TERA**, coming soon on my profile
 
